@@ -4,3 +4,10 @@ This is a work in progress script to generate a customizable PDF summary of Appl
 
 Usage: 
 python health_report.py /path/to/apple_health_export/export.xml -o my_report.pdf
+
+
+To-Do:
+- Progress bar when generating file
+- Improved graph and text formatting
+- Customizable options to allow users to select what to include in report
+- Add more supported variable options
